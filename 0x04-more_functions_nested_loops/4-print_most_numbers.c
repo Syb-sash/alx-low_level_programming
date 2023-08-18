@@ -3,7 +3,7 @@
 /**
  * print_most_numbers(void)
  *
- * Return: void
+ * return: void
  */
 
 void print_most_numbers(void)
